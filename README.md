@@ -1,9 +1,6 @@
 ### Good Afternoon! 👋
 Its always afternoon somewhere... 
 
-<!--
-**Xavier2a2/Xavier2a2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 😄  I am a recent graduate of a 14 week Java training course in which I have learned the skill of a Java Developer and the skills of a Java SDET.
 
